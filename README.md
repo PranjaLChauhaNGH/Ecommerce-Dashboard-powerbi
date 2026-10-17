@@ -2,8 +2,8 @@
 
 A two-page interactive Power BI dashboard analyzing about 1 million transactions across 726 stores, covering sales performance, year-over-year growth, and customer behavior.
 
-![Yearly Sales Analysis](Screenshots/Yearly Sales Analysis.png)
-![Customer and Product Insight](Screenshots/Customer and Product Insight.png)
+![Yearly Sales Analysis](Screenshots/YearlySalesAnalysis.png)
+![Customer and Product Insight](Screenshots/CustomerandProductInsight.png)
 
 ## Business Problem
 An e-commerce business needs to know whether sales are growing, which store locations drive revenue, and whether customers are coming back. This project is a scenario built around the dataset to answer those questions.
